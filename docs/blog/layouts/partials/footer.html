@@ -1,0 +1,12 @@
+<div class="footer wrapper">
+   <nav class="nav">
+    WARNING: this project is in alpha status.
+    </nav>
+	<nav class="nav">
+		<div>{{ default 2023 .Date.Year}} {{ with .Site.Copyright }} {{ . | safeHTML }} {{ end }}</div>
+	</nav>
+</div>
+
+{{- with .Site.Params.Social -}}
+<script>feather.replace()</script>
+{{- end -}}

@@ -1,0 +1,23 @@
+<footer class="footer text-light">
+    <div class="container">
+        <div class="row mt-4">
+        <div class="col-md-12 text-center">
+        <p>
+        <a href="https://www.dokmelody.org">Home</a> -
+        <a href="/">Blog</a> -
+        <a href="/contacts">Contacts</a>
+       </p>
+        </div>
+        <div class="col-md-12 text-center">
+        <p>WARNING: This project is in alpha status, i.e. many parts described here are not implemented or only as experimental prototypes.
+       </p>
+       </div>
+
+        </div>
+        <div class="row mt-4">
+            <div class="col-md-12 text-center">
+      <p class="text-body-secondary">&#169;  Copyright 2024 by Massimo Zaniboni and licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""></img><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></img></a></p>
+            </div>
+        </div>
+    </div>
+</footer>

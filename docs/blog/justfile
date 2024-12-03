@@ -1,0 +1,8 @@
+# serve demo site on port 8000
+serve:
+    hugo server --buildDrafts --port 8000
+
+# update the ../_build directory
+update:
+    mkdir -p ../_build
+    hugo build --cleanDestinationDir --gc
