@@ -10,6 +10,8 @@ publishDir = "../_build"
 
 copyright = "© Massimo Zaniboni - mzan@dokmelody.org"
 
+enableRobotsTXT = true
+
 [permalinks]
   posts = "/:year/:month/:day/:title"
 
